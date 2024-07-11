@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "watch": "tsc -w file-system.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "ts-node-dev": "^2.0.0"
+  }
+}
